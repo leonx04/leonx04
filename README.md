@@ -17,8 +17,8 @@
 - 🌐 [GitHub Link](https://github.com/leonx04/ThePoloManShop)
 - **Technologies:** Java Swing, MSSQL, FlatLaf
 
-### 2. 🛍 JungNguyenShop
-- A model selling website - JungNguyenShop
+### 2. 🛍 Jung Nguyen  Shop
+- A model selling website - Jung Nguyen Shop
 - 🌐 [GitHub Link](https://github.com/leonx04/JungNguyenShop)
 - **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
 ## 🌟 More About Me
