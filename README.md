@@ -12,12 +12,12 @@
   
 ## 🚀 Projects
 
-### 1. The Polo Men Shop Management Software
+### 1. 🛍 The Polo Men Shop Management Software 
 - A management and sales software for Polo Nam - The Polo Men Shop
 - 🌐 [GitHub Link](https://github.com/leonx04/ThePoloManShop)
 - **Technologies:** Java Swing, MSSQL, FlatLaf
 
-### 2. JungNguyenShop
+### 2. 🛍 JungNguyenShop
 - A model selling website - JungNguyenShop
 - 🌐 [GitHub Link](https://github.com/leonx04/JungNguyenShop)
 - **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
