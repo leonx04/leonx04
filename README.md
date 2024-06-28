@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Nguyễn Xuân Dũng (Jung Nguyễn)
+# 👋 Hello, I'm Nguyễn Xuân Dũng (Jung Nguyen )
 
-🎓 Student at FPT Polytechnic
 
 ## 🛠️ Skills and Technologies
 
