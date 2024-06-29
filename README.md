@@ -55,7 +55,7 @@ A robust management and sales software solution for Polo Nam - The Polo Men Shop
   - Sales tracking and reporting
   - Customer relationship management
 
-### 3. [Jung Nguyen Shop](https://github.com/leonx04/JungNguyenShop)
+### 3.  [Jung Nguyen Shop](https://github.com/leonx04/JungNguyenShop)
 An e-commerce website for model selling.
 - **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
 - **Key Features:**
@@ -83,7 +83,6 @@ An e-commerce website for model selling.
 - 👯 I'm looking to collaborate on open-source projects related to education technology
 - 💬 Ask me about Java, Spring Boot, or any tech-related topics
 - 📫 How to reach me: [jungnguyen2108@gmail.com](mailto:jungnguyen2108@gmail.com)
-- ⚡ Fun fact: I love solving coding challenges and participating in hackathons!
 
 
 Thank you for visiting my profile! Feel free to connect with me or check out my projects. 😊
