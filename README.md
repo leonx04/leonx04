@@ -8,9 +8,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungnguyen2108@gmail.com)
 
 🌟 Passionate about programming and constantly striving to learn new technologies. I enjoy working on projects that solve real-world problems and contribute to the tech community.
-
 </div>
-## 🔧 Skills & Technologies
+
+
+##  🔧 Skills & Technologies
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
