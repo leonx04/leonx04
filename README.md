@@ -21,8 +21,8 @@
 ## 🚀 Projects
 
 ### 🎓 [EMS - Education Management System](https://github.com/leonx04/EMS)
- A comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions.
- **Technologies:** Java Swing, MSSQL
+ #### A comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions.
+ #### **Technologies:** Java Swing, MSSQL
 
 ### 🛍 [The Polo Men Shop Management Software](https://github.com/leonx04/ThePoloManShop)
  Management and sales software for Polo Nam - The Polo Men Shop.
