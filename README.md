@@ -4,7 +4,9 @@
 <h3 align="center">👨‍💻 Developer | 🎓 Student </h3>
 
 <p align="center"> 
+  <a href="https://github.com/leonx04/">
   <img src="https://komarev.com/ghpvc/?username=leonx04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 <p align="center"> 
