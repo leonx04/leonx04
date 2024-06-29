@@ -76,5 +76,5 @@
 #### I enjoy participating in group projects and sharing knowledge with others.
 
 #####  Thank you for visiting my profile! 😊
-
 </div>
+![](https://hit.yhype.me/github/profile?user_id=111296639)
