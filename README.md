@@ -1,5 +1,7 @@
+<div align="center" style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fslidesdocs.com%2Fvi%2Fbackground%2Fhinh-nen-powerpoint-mot-hinh-anh-ky-thuat-so-truu-tuong-va-mang-tinh-tuong-lai-cua-mot-hanh-lang-trong-rong_e7794dda43&psig=AOvVaw2RQPn8wuvRdha82LsTy6sK&ust=1719739756809000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiPwv-_gIcDFQAAAAAdAAAAABAE'); padding: 20px; background-size: cover;">
+
 <h1 align="center">Hi there, I'm Nguyễn Xuân Dũng (Jung Nguyen) <img src="https://github.com/zoeyfrisart/zoeyfrisart/blob/main/meow_wave_peak.png" height="32"/></h1>
-<h3 align="center">👨‍💻 Developer | 🎓 Student at FPT </h3>
+<h3 align="center">👨‍💻 Developer | 🎓 Student at FPT Polytechnic</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leonx04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,17 +18,17 @@
 
 ## 🚀 Projects
 
-### 1. 🎓 [EMS - Education Management System](https://github.com/leonx04/EMS)
-- A comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions.
-- **Technologies:** Java Swing, MSSQL
+### 🎓 [EMS - Education Management System](https://github.com/leonx04/EMS)
+ A comprehensive Education Management System designed to streamline and enhance the administrative and learning processes of educational institutions.
+ **Technologies:** Java Swing, MSSQL
 
-### 2. 🛍 [The Polo Men Shop Management Software](https://github.com/leonx04/ThePoloManShop)
-- Management and sales software for Polo Nam - The Polo Men Shop.
-- **Technologies:** Java Swing, MSSQL, FlatLaf
+### 🛍 [The Polo Men Shop Management Software](https://github.com/leonx04/ThePoloManShop)
+ Management and sales software for Polo Nam - The Polo Men Shop.
+ **Technologies:** Java Swing, MSSQL, FlatLaf
 
-### 3. 🤖 [Jung Nguyen Shop](https://github.com/leonx04/JungNguyenShop)
-- A model selling website - Jung Nguyen Shop.
-- **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
+### 🤖 [Jung Nguyen Shop](https://github.com/leonx04/JungNguyenShop)
+ A model selling website - Jung Nguyen Shop.
+ **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
 
 ## 🔧 Languages and Tools
 
@@ -40,20 +42,27 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="color: #563d7c"/> </a>
   <a href="https://angularjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonx04&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonx04&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonx04&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonx04&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonx04&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ## 🌟 More About Me
 
-- I have a passion for programming and constantly strive to learn new technologies.
-- I enjoy participating in group projects and sharing knowledge with others.
+ I have a passion for programming and constantly strive to learn new technologies.
+ I enjoy participating in group projects and sharing knowledge with others.
 
 Thank you for visiting my profile! 😊
+
+</div>
