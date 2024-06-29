@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fslidesdocs.com%2Fvi%2Fbackground%2Fhinh-nen-powerpoint-mot-hinh-anh-ky-thuat-so-truu-tuong-va-mang-tinh-tuong-lai-cua-mot-hanh-lang-trong-rong_e7794dda43&psig=AOvVaw2RQPn8wuvRdha82LsTy6sK&ust=1719739756809000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiPwv-_gIcDFQAAAAAdAAAAABAE'); padding: 20px; background-size: cover;">
+<div align="center" >
 
 <h1 align="center">Hi there, I'm Nguyễn Xuân Dũng (Jung Nguyen) <img src="https://github.com/zoeyfrisart/zoeyfrisart/blob/main/meow_wave_peak.png" height="32"/></h1>
 <h3 align="center">👨‍💻 Developer | 🎓 Student </h3>
@@ -69,9 +69,9 @@
 
 ## 🌟 More About Me
 
- I have a passion for programming and constantly strive to learn new technologies.
- I enjoy participating in group projects and sharing knowledge with others.
+#### I have a passion for programming and constantly strive to learn new technologies.
+#### I enjoy participating in group projects and sharing knowledge with others.
 
-Thank you for visiting my profile! 😊
+#####  Thank you for visiting my profile! 😊
 
 </div>
