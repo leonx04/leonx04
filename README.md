@@ -1,7 +1,7 @@
 <div align="center" style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fslidesdocs.com%2Fvi%2Fbackground%2Fhinh-nen-powerpoint-mot-hinh-anh-ky-thuat-so-truu-tuong-va-mang-tinh-tuong-lai-cua-mot-hanh-lang-trong-rong_e7794dda43&psig=AOvVaw2RQPn8wuvRdha82LsTy6sK&ust=1719739756809000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiPwv-_gIcDFQAAAAAdAAAAABAE'); padding: 20px; background-size: cover;">
 
 <h1 align="center">Hi there, I'm Nguyễn Xuân Dũng (Jung Nguyen) <img src="https://github.com/zoeyfrisart/zoeyfrisart/blob/main/meow_wave_peak.png" height="32"/></h1>
-<h3 align="center">👨‍💻 Developer | 🎓 Student at FPT Polytechnic</h3>
+<h3 align="center">👨‍💻 Developer | 🎓 Student </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leonx04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
