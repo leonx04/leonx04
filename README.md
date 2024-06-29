@@ -50,8 +50,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonx04&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonx04&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+
+<p alighn="center">
+<a href="https://github.com/leonx04/">
+  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api?username=leonx04&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
 </p>
 
 <p align="center">
