@@ -48,7 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/leonx04/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonx04&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
+  </a>
 </p>
 
 <p alighn="center">
@@ -58,7 +60,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/leonx04/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonx04&theme=highcontrast" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 🌟 More About Me
