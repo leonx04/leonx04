@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
 
 ## 🚀 Featured Projects
 
