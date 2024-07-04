@@ -72,7 +72,6 @@ An e-commerce website for model selling.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonx04&theme=transparent&show_icons=true&rank_icon=github)](https://github.com/leonx04)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonx04&theme=highcontrast)](https://github.com/leonx04)
 
 </div>
 
