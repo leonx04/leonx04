@@ -64,16 +64,6 @@ An e-commerce website for model selling.
   - Shopping cart and checkout process
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leonx04&show_icons=true&locale=en&layout=compact&theme=highcontrast)](https://github.com/leonx04)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonx04&theme=transparent&show_icons=true&rank_icon=github)](https://github.com/leonx04)
-
-
-</div>
 
 ## 🌟 More About Me
 
