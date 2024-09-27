@@ -39,31 +39,13 @@
 
 ## 🚀 Featured Projects
 
-### 1. [EMS - Education Management System](https://github.com/leonx04/EMS)
-A comprehensive system designed to streamline and enhance administrative and learning processes in educational institutions.
-- **Technologies:** Java Swing, MSSQL
-- **Key Features:**
-  - Student information management
-  - Course scheduling and enrollment
-  - Grade tracking and reporting
-
-### 2. [The Polo Men Shop Management Software](https://github.com/leonx04/ThePoloManShop)
+### 1. [The Polo Men Shop Management Software](https://github.com/leonx04/ThePoloManShop)
 A robust management and sales software solution for Polo Nam - The Polo Men Shop.
 - **Technologies:** Java Swing, MSSQL, FlatLaf
 - **Key Features:**
   - Inventory management
   - Sales tracking and reporting
   - Customer relationship management
-
-### 3.  [Jung Nguyen Shop](https://github.com/leonx04/JungNguyenShop)
-An e-commerce website for model selling.
-- **Technologies:** AngularJS, JSON, JavaScript, HTML, CSS, Bootstrap
-- **Key Features:**
-  - Responsive design
-  - Product catalog and search functionality
-  - Shopping cart and checkout process
-
-
 
 ## 🌟 More About Me
 
