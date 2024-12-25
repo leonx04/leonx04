@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jung+Nguyen!;Intern+/+Fresher+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jung+Nguyen!;Fronted+/+Backend+Developer" />
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 💼 Intern / Fresher Developer from Vietnam 🇻🇳
+### 💼 Front-end / Backend Developer from Vietnam 🇻🇳
 ### 🎯 Passionate about web/app development and blockchain technology
 
 </div>
