@@ -73,7 +73,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🎮 NFT Marketplace on Solana
 [![NFT Marketplace](https://img.shields.io/badge/View_Demo-FF6C37?style=for-the-badge&logo=solana&logoColor=white)](https://market-nft-solana-updm-11.netlify.app/)
@@ -142,13 +142,6 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🐍 My Contributions Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonx04/leonx04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonx04/leonx04/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### ✨ Let's Connect and Create Something Amazing Together! 
 
