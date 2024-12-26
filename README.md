@@ -111,6 +111,7 @@
 - 💳 Secure Payment Integration
 - 📱 Responsive Design
 - 🔄 Real-time Inventory Updates
+- 📚 Blog Section: Stay updated with the latest tennis tips and news.
 - 📸 High-quality Product Visualization
 
 ---
