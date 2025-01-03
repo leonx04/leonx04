@@ -134,7 +134,7 @@
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,java,js" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,java,js,html,css,figma,vercel" /><br>
 </div>
 
 <div align="center">
