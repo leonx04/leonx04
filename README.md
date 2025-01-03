@@ -55,10 +55,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonx04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonx04&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jung Nguyen's Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonx04&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
