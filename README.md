@@ -59,9 +59,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonx04&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=leonx04&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonx04&custom_title=Jung's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Jung's Activity Graph" width="100%"/>
